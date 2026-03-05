@@ -28,5 +28,13 @@ Open index.html in any modern web browser.
 
 Start calculating!
 
+😍Output:-
+![calculator screenshot](image.png) 
+
+✌️Demo:-
+![question](image-1.png)
+The output:-
+![result](image-2.png)
+
 📸 Preview
 The calculator features a high-contrast dark display, outlined primary buttons for numbers, and distinct colors for functional keys (Success for =, Danger for C).
